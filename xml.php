@@ -57,3 +57,4 @@ foreach ($items as $item) {
 }
 
 ?>
+// xml.php?a=xxx
